@@ -7,6 +7,7 @@ class Database
   protected $database = "";
   protected $tablename = "";
   protected $conn="";
+  private $mycheck ="";
 
 
   function __construct($databasename,$table)
