@@ -1,0 +1,1 @@
+Welcome to the My Ecommerce website, I am just a beginner php web developer wanted to build this as my portfolio and wanted to keep this code so to help other developers, feel free to edit this code and work for betterment of all the developers community.
